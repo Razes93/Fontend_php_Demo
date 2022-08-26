@@ -51,7 +51,7 @@
                             <!-- logo start -->
                             <div class="header-element logo">
                                 <a href="index.php">
-                                    <img src="image/logo1.png" alt="logo-image" class="img-fluid">
+                                    <img src="../asset/image/logo1.png" alt="logo-image" class="img-fluid">
                                 </a>
                             </div>
                             <!-- logo end -->
@@ -261,14 +261,14 @@
                                                             id="collapse-banner-menu">
                                                             <li class="menu-banner">
                                                                 <a href="grid-list.php" class="menu-banner-img"><img
-                                                                        src="image/menu-banner01.jpg" alt="menu-image"
+                                                                        src="../asset/image/menu-banner01.jpg" alt="menu-image"
                                                                         class="img-fluid"></a>
                                                                 <a href="grid-list.php"
                                                                     class="menu-banner-title"><span>Bestseller</span></a>
                                                             </li>
                                                             <li class="menu-banner">
                                                                 <a href="grid-list.php" class="menu-banner-img"><img
-                                                                        src="image/menu-banner02.jpg" alt="menu-image"
+                                                                        src="../asset/image/menu-banner02.jpg" alt="menu-image"
                                                                         class="img-fluid"></a>
                                                                 <a href="grid-list.php"
                                                                     class="menu-banner-title"><span>Special
@@ -276,7 +276,7 @@
                                                             </li>
                                                             <li class="menu-banner">
                                                                 <a href="grid-list.php" class="menu-banner-img"><img
-                                                                        src="image/menu-banner03.jpg" alt="mneu image"
+                                                                        src="../asset/image/menu-banner03.jpg" alt="mneu image"
                                                                         class="img-fluid"></a>
                                                                 <a href="grid-list.php"
                                                                     class="menu-banner-title"><span>Featured
@@ -353,7 +353,7 @@
                                     <!-- menu end -->
                                     <div class="img-hotline">
                                         <div class="image-line">
-                                            <a href="javascript:void(0)"><img src="image/icon_contact.png"
+                                            <a href="javascript:void(0)"><img src="../asset/image/icon_contact.png"
                                                     class="img-fluid" alt="image-icon"></a>
                                         </div>
                                         <div class="image-content">
@@ -381,7 +381,7 @@
                 <li class="cart-item">
                     <div class="cart-img">
                         <a href="product.php">
-                            <img src="image/cart-img.jpg" alt="cart-image" class="img-fluid">
+                            <img src="../asset/image/cart-img.jpg" alt="cart-image" class="img-fluid">
                         </a>
                     </div>
                     <div class="cart-title">
@@ -400,7 +400,7 @@
                 <li class="cart-item">
                     <div class="cart-img">
                         <a href="product.php">
-                            <img src="image/cart-img02.jpg" alt="cart-image" class="img-fluid">
+                            <img src="../asset/image/cart-img02.jpg" alt="cart-image" class="img-fluid">
                         </a>
                     </div>
                     <div class="cart-title">
@@ -419,7 +419,7 @@
                 <li class="cart-item">
                     <div class="cart-img">
                         <a href="product.php">
-                            <img src="image/cart-img03.jpg" alt="cart-image" class="img-fluid">
+                            <img src="../asset/image/cart-img03.jpg" alt="cart-image" class="img-fluid">
                         </a>
                     </div>
                     <div class="cart-title">
@@ -438,7 +438,7 @@
                 <li class="cart-item">
                     <div class="cart-img">
                         <a href="product.php">
-                            <img src="image/cart-img04.jpg" alt="cart-image" class="img-fluid">
+                            <img src="../asset/image/cart-img04.jpg" alt="cart-image" class="img-fluid">
                         </a>
                     </div>
                     <div class="cart-title">
@@ -681,7 +681,7 @@
                         </div>
                         <div class="filter-banner">
                             <a href="grid-list.php" class="grid-banner">
-                                <img src="image/grid-banner.jpg" class="img-fluid" alt="image">
+                                <img src="../asset/image/grid-banner.jpg" class="img-fluid" alt="image">
                             </a>
                         </div>
                     </div>
@@ -728,8 +728,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-1.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-01.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-1.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-01.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -761,8 +761,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-2.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-02.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-2.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-02.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -794,8 +794,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-3.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-03.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-3.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-03.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -828,8 +828,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-4.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-04.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-4.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-04.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -861,8 +861,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-5.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-05.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-5.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-05.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -895,8 +895,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-6.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-06.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-6.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-06.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -929,8 +929,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-7.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-07.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-7.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-07.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -963,8 +963,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-8.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-08.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-8.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-08.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -996,8 +996,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-9.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-09.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-9.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-09.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -1030,8 +1030,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-10.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-010.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-10.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-010.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -1063,8 +1063,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-11.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-011.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-11.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-011.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -1096,8 +1096,8 @@
                                     <div class="tred-pro">
                                         <div class="tr-pro-img">
                                             <a href="product.php">
-                                                <img class="img-fluid" src="image/pro/pro-img-12.jpg" alt="pro-img1">
-                                                <img class="img-fluid additional-image" src="image/pro/pro-img-012.jpg"
+                                                <img class="img-fluid" src="../asset/image/pro/pro-img-12.jpg" alt="pro-img1">
+                                                <img class="img-fluid additional-image" src="../asset/image/pro/pro-img-012.jpg"
                                                     alt="additional image">
                                             </a>
                                         </div>
@@ -1159,49 +1159,49 @@
                             <div class="tab-content">
                                 <div class="tab-pane fade show active" id="image-1">
                                     <a href="javascript:void(0)" class="long-img">
-                                        <img src="image/pro-page-image/pro-page-image.jpg" class="img-fluid"
+                                        <img src="../asset/image/pro-page-image/pro-page-image.jpg" class="img-fluid"
                                             alt="image">
                                     </a>
                                 </div>
                                 <div class="tab-pane fade show" id="image-2">
                                     <a href="javascript:void(0)" class="long-img">
-                                        <img src="image/pro-page-image/prro-page-image01.jpg" class="img-fluid"
+                                        <img src="../asset/image/pro-page-image/prro-page-image01.jpg" class="img-fluid"
                                             alt="image">
                                     </a>
                                 </div>
                                 <div class="tab-pane fade show" id="image-3">
                                     <a href="javascript:void(0)" class="long-img">
-                                        <img src="image/pro-page-image/pro-page-image1-1.jpg" class="img-fluid"
+                                        <img src="../asset/image/pro-page-image/pro-page-image1-1.jpg" class="img-fluid"
                                             alt="image">
                                     </a>
                                 </div>
                                 <div class="tab-pane fade show" id="image-4">
                                     <a href="javascript:void(0)" class="long-img">
-                                        <img src="image/pro-page-image/pro-page-image1.jpg" class="img-fluid"
+                                        <img src="../asset/image/pro-page-image/pro-page-image1.jpg" class="img-fluid"
                                             alt="image">
                                     </a>
                                 </div>
                                 <div class="tab-pane fade show" id="image-5">
                                     <a href="javascript:void(0)" class="long-img">
-                                        <img src="image/pro-page-image/pro-page-image2.jpg" class="img-fluid"
+                                        <img src="../asset/image/pro-page-image/pro-page-image2.jpg" class="img-fluid"
                                             alt="image">
                                     </a>
                                 </div>
                                 <div class="tab-pane fade show" id="image-6">
                                     <a href="javascript:void(0)" class="long-img">
-                                        <img src="image/pro-page-image/pro-page-image2-2.jpg" class="img-fluid"
+                                        <img src="../asset/image/pro-page-image/pro-page-image2-2.jpg" class="img-fluid"
                                             alt="image">
                                     </a>
                                 </div>
                                 <div class="tab-pane fade show" id="image-7">
                                     <a href="javascript:void(0)" class="long-img">
-                                        <img src="image/pro-page-image/pro-page-image3.jpg" class="img-fluid"
+                                        <img src="../asset/image/pro-page-image/pro-page-image3.jpg" class="img-fluid"
                                             alt="image">
                                     </a>
                                 </div>
                                 <div class="tab-pane fade show" id="image-8">
                                     <a href="javascript:void(0)" class="long-img">
-                                        <img src="image/pro-page-image/pro-page-image03.jpg" class="img-fluid"
+                                        <img src="../asset/image/pro-page-image/pro-page-image03.jpg" class="img-fluid"
                                             alt="image">
                                     </a>
                                 </div>
@@ -1209,35 +1209,35 @@
                             <ul class="nav nav-tabs quick-slider owl-carousel owl-theme">
                                 <li class="nav-item items">
                                     <a class="nav-link active" data-bs-toggle="tab" href="#image-1"><img
-                                            src="image/pro-page-image/image1.jpg" class="img-fluid" alt="image"></a>
+                                            src="../asset/image/pro-page-image/image1.jpg" class="img-fluid" alt="image"></a>
                                 </li>
                                 <li class="nav-item items">
                                     <a class="nav-link" data-bs-toggle="tab" href="#image-2"><img
-                                            src="image/pro-page-image/image2.jpg" class="img-fluid" alt="iamge"></a>
+                                            src="../asset/image/pro-page-image/image2.jpg" class="img-fluid" alt="iamge"></a>
                                 </li>
                                 <li class="nav-item items">
                                     <a class="nav-link" data-bs-toggle="tab" href="#image-3"><img
-                                            src="image/pro-page-image/image3.jpg" class="img-fluid" alt="image"></a>
+                                            src="../asset/image/pro-page-image/image3.jpg" class="img-fluid" alt="image"></a>
                                 </li>
                                 <li class="nav-item items">
                                     <a class="nav-link" data-bs-toggle="tab" href="#image-4"><img
-                                            src="image/pro-page-image/image4.jpg" class="img-fluid" alt="image"></a>
+                                            src="../asset/image/pro-page-image/image4.jpg" class="img-fluid" alt="image"></a>
                                 </li>
                                 <li class="nav-item items">
                                     <a class="nav-link" data-bs-toggle="tab" href="#image-5"><img
-                                            src="image/pro-page-image/image5.jpg" class="img-fluid" alt="image"></a>
+                                            src="../asset/image/pro-page-image/image5.jpg" class="img-fluid" alt="image"></a>
                                 </li>
                                 <li class="nav-item items">
                                     <a class="nav-link" data-bs-toggle="tab" href="#image-6"><img
-                                            src="image/pro-page-image/image6.jpg" class="img-fluid" alt="image"></a>
+                                            src="../asset/image/pro-page-image/image6.jpg" class="img-fluid" alt="image"></a>
                                 </li>
                                 <li class="nav-item items">
                                     <a class="nav-link" data-bs-toggle="tab" href="#image-7"><img
-                                            src="image/pro-page-image/image8.jpg" class="img-fluid" alt="image"></a>
+                                            src="../asset/image/pro-page-image/image8.jpg" class="img-fluid" alt="image"></a>
                                 </li>
                                 <li class="nav-item items">
                                     <a class="nav-link" data-bs-toggle="tab" href="#image-8"><img
-                                            src="image/pro-page-image/image7.jpg" class="img-fluid" alt="image"></a>
+                                            src="../asset/image/pro-page-image/image7.jpg" class="img-fluid" alt="image"></a>
                                 </li>
                             </ul>
                         </div>
@@ -1312,7 +1312,7 @@
                         <ul class="footer-ul">
                             <li class="footer-li footer-logo">
                                 <a href="index.php">
-                                    <img class="img-fluid" src="image/logo1.png" alt="">
+                                    <img class="img-fluid" src="../asset/image/logo1.png" alt="">
                                 </a>
                             </li>
                             <li class="footer-li footer-address">
@@ -1438,7 +1438,7 @@
                             <a href="https://www.youtube.com/" class="f-icn-link"><i class="fa fa-youtube"></i></a>
                         </li>
                         <li class="f-c f-payment">
-                            <a href="checkout.php"><img src="image/payment.png" class="img-fluid"
+                            <a href="checkout.php"><img src="../asset/image/payment.png" class="img-fluid"
                                     alt="payment image"></a>
                         </li>
                     </ul>

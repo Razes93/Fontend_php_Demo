@@ -51,7 +51,7 @@
                             <!-- logo start -->
                             <div class="header-element logo">
                                 <a href="index.php">
-                                    <img src="image/logo1.png" alt="logo-image" class="img-fluid">
+                                    <img src="../asset/image/logo1.png" alt="logo-image" class="img-fluid">
                                 </a>
                             </div>
                             <!-- logo end -->
@@ -261,14 +261,14 @@
                                                             id="collapse-banner-menu">
                                                             <li class="menu-banner">
                                                                 <a href="grid-list.php" class="menu-banner-img"><img
-                                                                        src="image/menu-banner01.jpg" alt="menu-image"
+                                                                        src="../asset/image/menu-banner01.jpg" alt="menu-image"
                                                                         class="img-fluid"></a>
                                                                 <a href="grid-list.php"
                                                                     class="menu-banner-title"><span>Bestseller</span></a>
                                                             </li>
                                                             <li class="menu-banner">
                                                                 <a href="grid-list.php" class="menu-banner-img"><img
-                                                                        src="image/menu-banner02.jpg" alt="menu-image"
+                                                                        src="../asset/image/menu-banner02.jpg" alt="menu-image"
                                                                         class="img-fluid"></a>
                                                                 <a href="grid-list.php"
                                                                     class="menu-banner-title"><span>Special
@@ -276,7 +276,7 @@
                                                             </li>
                                                             <li class="menu-banner">
                                                                 <a href="grid-list.php" class="menu-banner-img"><img
-                                                                        src="image/menu-banner03.jpg" alt="mneu image"
+                                                                        src="../asset/image/menu-banner03.jpg" alt="mneu image"
                                                                         class="img-fluid"></a>
                                                                 <a href="grid-list.php"
                                                                     class="menu-banner-title"><span>Featured
@@ -353,7 +353,7 @@
                                     <!-- menu end -->
                                     <div class="img-hotline">
                                         <div class="image-line">
-                                            <a href="javascript:void(0)"><img src="image/icon_contact.png"
+                                            <a href="javascript:void(0)"><img src="../asset/image/icon_contact.png"
                                                     class="img-fluid" alt="image-icon"></a>
                                         </div>
                                         <div class="image-content">
@@ -381,7 +381,7 @@
                 <li class="cart-item">
                     <div class="cart-img">
                         <a href="product.php">
-                            <img src="image/cart-img.jpg" alt="cart-image" class="img-fluid">
+                            <img src="../asset/image/cart-img.jpg" alt="cart-image" class="img-fluid">
                         </a>
                     </div>
                     <div class="cart-title">
@@ -400,7 +400,7 @@
                 <li class="cart-item">
                     <div class="cart-img">
                         <a href="product.php">
-                            <img src="image/cart-img02.jpg" alt="cart-image" class="img-fluid">
+                            <img src="../asset/image/cart-img02.jpg" alt="cart-image" class="img-fluid">
                         </a>
                     </div>
                     <div class="cart-title">
@@ -419,7 +419,7 @@
                 <li class="cart-item">
                     <div class="cart-img">
                         <a href="product.php">
-                            <img src="image/cart-img03.jpg" alt="cart-image" class="img-fluid">
+                            <img src="../asset/image/cart-img03.jpg" alt="cart-image" class="img-fluid">
                         </a>
                     </div>
                     <div class="cart-title">
@@ -438,7 +438,7 @@
                 <li class="cart-item">
                     <div class="cart-img">
                         <a href="product.php">
-                            <img src="image/cart-img04.jpg" alt="cart-image" class="img-fluid">
+                            <img src="../asset/image/cart-img04.jpg" alt="cart-image" class="img-fluid">
                         </a>
                     </div>
                     <div class="cart-title">
@@ -514,7 +514,7 @@
                             <div class="blog-item">
                                 <div class="l-blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-page-1/home-1/image1.jpg" class="img-fluid" alt="image">
+                                        <img src="../asset/image/blog-page-1/home-1/image1.jpg" class="img-fluid" alt="image">
                                     </a>
                                 </div>
                                 <div class="l-blog-caption">
@@ -525,7 +525,7 @@
                             <div class="blog-item">
                                 <div class="l-blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-page-1/home-1/image2.jpg" class="img-fluid" alt="image">
+                                        <img src="../asset/image/blog-page-1/home-1/image2.jpg" class="img-fluid" alt="image">
                                     </a>
                                 </div>
                                 <div class="l-blog-caption">
@@ -536,7 +536,7 @@
                             <div class="blog-item">
                                 <div class="l-blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-page-1/home-1/image3.jpg" class="img-fluid" alt="image">
+                                        <img src="../asset/image/blog-page-1/home-1/image3.jpg" class="img-fluid" alt="image">
                                     </a>
                                 </div>
                                 <div class="l-blog-caption">
@@ -547,7 +547,7 @@
                             <div class="blog-item">
                                 <div class="l-blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-page-1/home-1/image4.jpg" class="img-fluid" alt="image">
+                                        <img src="../asset/image/blog-page-1/home-1/image4.jpg" class="img-fluid" alt="image">
                                     </a>
                                 </div>
                                 <div class="l-blog-caption">
@@ -558,7 +558,7 @@
                             <div class="blog-item">
                                 <div class="l-blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-page-1/home-1/image5.jpg" class="img-fluid" alt="image">
+                                        <img src="../asset/image/blog-page-1/home-1/image5.jpg" class="img-fluid" alt="image">
                                     </a>
                                 </div>
                                 <div class="l-blog-caption">
@@ -590,7 +590,7 @@
                             <div class="blog-post">
                                 <div class="blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-image/blog-1.jpg" alt="blog-image" class="img-fluid">
+                                        <img src="../asset/image/blog-image/blog-1.jpg" alt="blog-image" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -617,7 +617,7 @@
                             <div class="blog-post">
                                 <div class="blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-image/blog-2.jpg" alt="blog-image" class="img-fluid">
+                                        <img src="../asset/image/blog-image/blog-2.jpg" alt="blog-image" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -644,7 +644,7 @@
                             <div class="blog-post">
                                 <div class="blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-image/blog-3.jpg" alt="blog-image" class="img-fluid">
+                                        <img src="../asset/image/blog-image/blog-3.jpg" alt="blog-image" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -671,7 +671,7 @@
                             <div class="blog-post">
                                 <div class="blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-image/blog-4.jpg" alt="blog-image" class="img-fluid">
+                                        <img src="../asset/image/blog-image/blog-4.jpg" alt="blog-image" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -697,7 +697,7 @@
                             <div class="blog-post">
                                 <div class="blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-image/blog-5.jpg" alt="blog-image" class="img-fluid">
+                                        <img src="../asset/image/blog-image/blog-5.jpg" alt="blog-image" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -723,7 +723,7 @@
                             <div class="blog-post">
                                 <div class="blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-image/blog-6.jpg" alt="blog-image" class="img-fluid">
+                                        <img src="../asset/image/blog-image/blog-6.jpg" alt="blog-image" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -750,7 +750,7 @@
                             <div class="blog-post">
                                 <div class="blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-image/blog-7.jpg" alt="blog-image" class="img-fluid">
+                                        <img src="../asset/image/blog-image/blog-7.jpg" alt="blog-image" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -777,7 +777,7 @@
                             <div class="blog-post">
                                 <div class="blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-image/blog-1.jpg" alt="blog-image" class="img-fluid">
+                                        <img src="../asset/image/blog-image/blog-1.jpg" alt="blog-image" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -804,7 +804,7 @@
                             <div class="blog-post">
                                 <div class="blog-image">
                                     <a href="blog-style-1-details.php">
-                                        <img src="image/blog-image/blog-2.jpg" alt="blog-image" class="img-fluid">
+                                        <img src="../asset/image/blog-image/blog-2.jpg" alt="blog-image" class="img-fluid">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -872,7 +872,7 @@
                         <ul class="footer-ul">
                             <li class="footer-li footer-logo">
                                 <a href="index.php">
-                                    <img class="img-fluid" src="image/logo1.png" alt="">
+                                    <img class="img-fluid" src="../asset/image/logo1.png" alt="">
                                 </a>
                             </li>
                             <li class="footer-li footer-address">
@@ -998,7 +998,7 @@
                             <a href="https://www.youtube.com/" class="f-icn-link"><i class="fa fa-youtube"></i></a>
                         </li>
                         <li class="f-c f-payment">
-                            <a href="checkout.php"><img src="image/payment.png" class="img-fluid"
+                            <a href="checkout.php"><img src="../asset/image/payment.png" class="img-fluid"
                                     alt="payment image"></a>
                         </li>
                     </ul>

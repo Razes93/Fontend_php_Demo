@@ -51,7 +51,7 @@
                             <!-- logo start -->
                             <div class="header-element logo">
                                 <a href="index.php">
-                                    <img src="image/logo1.png" alt="logo-image" class="img-fluid">
+                                    <img src="../asset/image/logo1.png" alt="logo-image" class="img-fluid">
                                 </a>
                             </div>
                             <!-- logo end -->
@@ -260,14 +260,14 @@
                                                             id="collapse-banner-menu">
                                                             <li class="menu-banner">
                                                                 <a href="grid-list.php" class="menu-banner-img"><img
-                                                                        src="image/menu-banner01.jpg" alt="menu-image"
+                                                                        src="../asset/image/menu-banner01.jpg" alt="menu-image"
                                                                         class="img-fluid"></a>
                                                                 <a href="grid-list.php"
                                                                     class="menu-banner-title"><span>Bestseller</span></a>
                                                             </li>
                                                             <li class="menu-banner">
                                                                 <a href="grid-list.php" class="menu-banner-img"><img
-                                                                        src="image/menu-banner02.jpg" alt="menu-image"
+                                                                        src="../asset/image/menu-banner02.jpg" alt="menu-image"
                                                                         class="img-fluid"></a>
                                                                 <a href="grid-list.php"
                                                                     class="menu-banner-title"><span>Special
@@ -275,7 +275,7 @@
                                                             </li>
                                                             <li class="menu-banner">
                                                                 <a href="grid-list.php" class="menu-banner-img"><img
-                                                                        src="image/menu-banner03.jpg" alt="mneu image"
+                                                                        src="../asset/image/menu-banner03.jpg" alt="mneu image"
                                                                         class="img-fluid"></a>
                                                                 <a href="grid-list.php"
                                                                     class="menu-banner-title"><span>Featured
@@ -352,7 +352,7 @@
                                     <!-- menu end -->
                                     <div class="img-hotline">
                                         <div class="image-line">
-                                            <a href="javascript:void(0)"><img src="image/icon_contact.png"
+                                            <a href="javascript:void(0)"><img src="../asset/image/icon_contact.png"
                                                     class="img-fluid" alt="image-icon"></a>
                                         </div>
                                         <div class="image-content">
@@ -379,7 +379,7 @@
                     <li class="cart-item">
                         <div class="cart-img">
                             <a href="product.php">
-                                <img src="image/cart-img.jpg" alt="cart-image" class="img-fluid">
+                                <img src="../asset/image/cart-img.jpg" alt="cart-image" class="img-fluid">
                             </a>
                         </div>
                         <div class="cart-title">
@@ -398,7 +398,7 @@
                     <li class="cart-item">
                         <div class="cart-img">
                             <a href="product.php">
-                                <img src="image/cart-img02.jpg" alt="cart-image" class="img-fluid">
+                                <img src="../asset/image/cart-img02.jpg" alt="cart-image" class="img-fluid">
                             </a>
                         </div>
                         <div class="cart-title">
@@ -417,7 +417,7 @@
                     <li class="cart-item">
                         <div class="cart-img">
                             <a href="product.php">
-                                <img src="image/cart-img03.jpg" alt="cart-image" class="img-fluid">
+                                <img src="../asset/image/cart-img03.jpg" alt="cart-image" class="img-fluid">
                             </a>
                         </div>
                         <div class="cart-title">
@@ -436,7 +436,7 @@
                     <li class="cart-item">
                         <div class="cart-img">
                             <a href="product.php">
-                                <img src="image/cart-img04.jpg" alt="cart-image" class="img-fluid">
+                                <img src="../asset/image/cart-img04.jpg" alt="cart-image" class="img-fluid">
                             </a>
                         </div>
                         <div class="cart-title">
@@ -480,7 +480,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed libero vel ex maximus
                             vulputate nec eu ligula. Vestibulum elementum nisi ut fermentum lobortis. Sed quis iaculis
                             felis.</p>
-                        <img src="image/about-image-pro.jpg" class="p-image" alt="pro-image">
+                        <img src="../asset/image/about-image-pro.jpg" class="p-image" alt="pro-image">
                     </div>
                     <div class="about-details">
                         <p>There is something about the saree that makes a woman look dignified, glorifying and every
@@ -552,56 +552,56 @@
                         <div class="items">
                             <div class="brand-img">
                                 <a href="javascript:void(0)">
-                                    <img src="image/brand/home-123/l1.png" alt="home brand" class="img-fluid">
+                                    <img src="../asset/image/brand/home-123/l1.png" alt="home brand" class="img-fluid">
                                 </a>
                             </div>
                         </div>
                         <div class="items">
                             <div class="brand-img">
                                 <a href="javascript:void(0)">
-                                    <img src="image/brand/home-123/l2.png" alt="home brand" class="img-fluid">
+                                    <img src="../asset/image/brand/home-123/l2.png" alt="home brand" class="img-fluid">
                                 </a>
                             </div>
                         </div>
                         <div class="items">
                             <div class="brand-img">
                                 <a href="javascript:void(0)">
-                                    <img src="image/brand/home-123/l3.png" alt="home brand" class="img-fluid">
+                                    <img src="../asset/image/brand/home-123/l3.png" alt="home brand" class="img-fluid">
                                 </a>
                             </div>
                         </div>
                         <div class="items">
                             <div class="brand-img">
                                 <a href="javascript:void(0)">
-                                    <img src="image/brand/home-123/l4.png" alt="home brand" class="img-fluid">
+                                    <img src="../asset/image/brand/home-123/l4.png" alt="home brand" class="img-fluid">
                                 </a>
                             </div>
                         </div>
                         <div class="items">
                             <div class="brand-img">
                                 <a href="javascript:void(0)">
-                                    <img src="image/brand/home-123/l5.png" alt="home brand" class="img-fluid">
+                                    <img src="../asset/image/brand/home-123/l5.png" alt="home brand" class="img-fluid">
                                 </a>
                             </div>
                         </div>
                         <div class="items">
                             <div class="brand-img">
                                 <a href="javascript:void(0)">
-                                    <img src="image/brand/home-123/l6.png" alt="home brand" class="img-fluid">
+                                    <img src="../asset/image/brand/home-123/l6.png" alt="home brand" class="img-fluid">
                                 </a>
                             </div>
                         </div>
                         <div class="items">
                             <div class="brand-img">
                                 <a href="javascript:void(0)">
-                                    <img src="image/brand/home-123/l7.png" alt="home brand" class="img-fluid">
+                                    <img src="../asset/image/brand/home-123/l7.png" alt="home brand" class="img-fluid">
                                 </a>
                             </div>
                         </div>
                         <div class="items">
                             <div class="brand-img">
                                 <a href="javascript:void(0)">
-                                    <img src="image/brand/home-123/l8.png" alt="home brand" class="img-fluid">
+                                    <img src="../asset/image/brand/home-123/l8.png" alt="home brand" class="img-fluid">
                                 </a>
                             </div>
                         </div>
@@ -640,7 +640,7 @@
                         <ul class="footer-ul">
                             <li class="footer-li footer-logo">
                                 <a href="index.php">
-                                    <img class="img-fluid" src="image/logo1.png" alt="">
+                                    <img class="img-fluid" src="../asset/image/logo1.png" alt="">
                                 </a>
                             </li>
                             <li class="footer-li footer-address">
@@ -766,7 +766,7 @@
                             <a href="https://www.youtube.com/" class="f-icn-link"><i class="fa fa-youtube"></i></a>
                         </li>
                         <li class="f-c f-payment">
-                            <a href="checkout.php"><img src="image/payment.png" class="img-fluid"
+                            <a href="checkout.php"><img src="../asset/image/payment.png" class="img-fluid"
                                     alt="payment image"></a>
                         </li>
                     </ul>
